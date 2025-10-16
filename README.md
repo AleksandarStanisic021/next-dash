@@ -2,6 +2,8 @@
 
 A project management application built with Next.js, inspired by Linear.
 
+I was experimenting with good tutorial.
+
 ## Features
 
 - User authentication (sign up, sign in, sign out)
